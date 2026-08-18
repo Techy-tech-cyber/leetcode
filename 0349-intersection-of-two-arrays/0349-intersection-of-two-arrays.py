@@ -5,13 +5,14 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        res=[]
+       
+        s = set(nums1)
+        result = []
 
-        for i in range (len(nums1)):
-            for j in range(len(nums2)):
-                if ((nums1[i]==nums2[j]) and nums1[i] not in res) :
-                    res.append(nums1[i])
-        return res            
-                             
+        for num in nums2  :
+            if num in s and num not in result:
+                result.append(num)
+
+        return result
                               
                             
