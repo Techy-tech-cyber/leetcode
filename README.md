@@ -10,6 +10,7 @@ codes
 | [0004-median-of-two-sorted-arrays](https://github.com/Techy-tech-cyber/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/Techy-tech-cyber/leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Techy-tech-cyber/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Techy-tech-cyber/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Techy-tech-cyber/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Techy-tech-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0692-top-k-frequent-words](https://github.com/Techy-tech-cyber/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -90,4 +91,8 @@ codes
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Techy-tech-cyber/leetcode/tree/master/0692-top-k-frequent-words) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Techy-tech-cyber/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
