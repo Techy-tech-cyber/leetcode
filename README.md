@@ -11,6 +11,7 @@ codes
 | [0049-group-anagrams](https://github.com/Techy-tech-cyber/leetcode/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/Techy-tech-cyber/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Techy-tech-cyber/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/Techy-tech-cyber/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Techy-tech-cyber/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Techy-tech-cyber/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Techy-tech-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -20,6 +21,7 @@ codes
 | ------- |
 | [0001-two-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Techy-tech-cyber/leetcode/tree/master/0049-group-anagrams) |
+| [0219-contains-duplicate-ii](https://github.com/Techy-tech-cyber/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Techy-tech-cyber/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Techy-tech-cyber/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Techy-tech-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -102,4 +104,8 @@ codes
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Techy-tech-cyber/leetcode/tree/master/0152-maximum-product-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Techy-tech-cyber/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
