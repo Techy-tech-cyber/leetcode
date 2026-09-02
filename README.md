@@ -46,6 +46,7 @@ codes
 | [0125-valid-palindrome](https://github.com/Techy-tech-cyber/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Techy-tech-cyber/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Techy-tech-cyber/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Techy-tech-cyber/leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Techy-tech-cyber/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Techy-tech-cyber/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Sorting
@@ -108,4 +109,12 @@ codes
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Techy-tech-cyber/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Techy-tech-cyber/leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Techy-tech-cyber/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
