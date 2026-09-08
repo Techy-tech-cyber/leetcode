@@ -16,6 +16,7 @@ codes
 | [0347-top-k-frequent-elements](https://github.com/Techy-tech-cyber/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Techy-tech-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0692-top-k-frequent-words](https://github.com/Techy-tech-cyber/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/Techy-tech-cyber/leetcode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ codes
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Techy-tech-cyber/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Techy-tech-cyber/leetcode/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
