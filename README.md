@@ -21,6 +21,7 @@ codes
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Techy-tech-cyber/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Techy-tech-cyber/leetcode/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/Techy-tech-cyber/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Techy-tech-cyber/leetcode/tree/master/0242-valid-anagram) |
@@ -43,6 +44,7 @@ codes
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Techy-tech-cyber/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Techy-tech-cyber/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Techy-tech-cyber/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Techy-tech-cyber/leetcode/tree/master/0242-valid-anagram) |
@@ -110,6 +112,7 @@ codes
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Techy-tech-cyber/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Techy-tech-cyber/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
