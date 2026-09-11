@@ -10,6 +10,7 @@ codes
 | [0004-median-of-two-sorted-arrays](https://github.com/Techy-tech-cyber/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/Techy-tech-cyber/leetcode/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/Techy-tech-cyber/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Techy-tech-cyber/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Techy-tech-cyber/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Techy-tech-cyber/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Techy-tech-cyber/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -34,6 +35,7 @@ codes
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Techy-tech-cyber/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Techy-tech-cyber/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Techy-tech-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -66,6 +68,7 @@ codes
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Techy-tech-cyber/leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Techy-tech-cyber/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Techy-tech-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Queue
 |  |
