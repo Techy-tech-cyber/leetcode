@@ -133,8 +133,13 @@ codes
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Techy-tech-cyber/leetcode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Techy-tech-cyber/leetcode/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Techy-tech-cyber/leetcode/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Techy-tech-cyber/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
