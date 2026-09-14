@@ -19,6 +19,7 @@ codes
 | [0349-intersection-of-two-arrays](https://github.com/Techy-tech-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0692-top-k-frequent-words](https://github.com/Techy-tech-cyber/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Techy-tech-cyber/leetcode/tree/master/0724-find-pivot-index) |
+| [1920-build-array-from-permutation](https://github.com/Techy-tech-cyber/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@ codes
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Techy-tech-cyber/leetcode/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/Techy-tech-cyber/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Linked List
 |  |
 | ------- |
