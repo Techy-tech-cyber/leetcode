@@ -74,6 +74,7 @@ codes
 | [0125-valid-palindrome](https://github.com/Techy-tech-cyber/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Techy-tech-cyber/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Techy-tech-cyber/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Techy-tech-cyber/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Techy-tech-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Techy-tech-cyber/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Queue
@@ -140,6 +141,7 @@ codes
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Techy-tech-cyber/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Techy-tech-cyber/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Techy-tech-cyber/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Techy-tech-cyber/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Techy-tech-cyber/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Techy-tech-cyber/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -150,4 +152,9 @@ codes
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Techy-tech-cyber/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Techy-tech-cyber/leetcode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Techy-tech-cyber/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
