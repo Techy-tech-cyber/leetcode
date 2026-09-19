@@ -10,35 +10,23 @@ class Solution(object):
         :type k: int
         :rtype: Optional[ListNode]
         """
+        if head == None or head.next==None:
+            return head
+        last=head
+        c=0    
+        while last.next!=None:
+            last=last.next
+            c+=1
+        c+=1
+        k=k%c
+        if k==0 :
+            return head
+        curr=head
+        for i in range(c-k-1):
+            curr=curr.next
+        last.next=head
+        head=curr.next
+        curr.next=None
+        return head            
         
-        if head == None or head.next == None or k == 0:
-            return head
-
-        # length find karo
-        temp = head
-        n = 1
-
-        while temp.next != None:
-            temp = temp.next
-            n += 1
-
-        k = k % n
-
-        if k == 0:
-            return head
-
-        # last node ko head se connect karo
-        temp.next = head
-
-        # new tail tak jao
-        for i in range(n - k):
-            temp = temp.next
-
-        # new head
-        new_head = temp.next
-
-        # break the circle
-        temp.next = None
-
-        return new_head
-    
+       
