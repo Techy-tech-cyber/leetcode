@@ -9,16 +9,19 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: bool
         """
-        
-        arr = []
 
+        a=[]
         temp = head
-
         while temp:
-            arr.append(temp.val)
-            temp = temp.next
+            a.append(temp.val)
+            temp=temp.next
+        return a==a[::-1]    
 
-        return arr == arr[::-1]
+           
+
+ 
+
+               
+            
         
-        
-        
+       
