@@ -10,19 +10,34 @@ class Solution(object):
         :type head1, head1: ListNode
         :rtype: ListNode
         """
-        p1=headA
-        p2=headB
+        temp1=headA
+        temp2=headB
         c=0
-        while True:
-            if p1==p2:
-                return p1
-            p1=p1.next
-            p2=p2.next
-            if p1==None:
-                c+=1
-                p1=headB
-            if p2== None:
-                p2=headA
-            if c>1:
-                return None               
-        
+        l=0
+        while temp1!=None:
+            temp1=temp1.next
+            c+=1
+        while temp2!=None:
+            l+=1
+            temp2=temp2.next
+        dif=abs(c-l)
+        if c>l:
+            while dif:
+                headA=headA.next 
+                dif-=1
+        else:
+            while dif:
+                headB=headB.next 
+                dif-=1 
+        while headA!=None:
+            if headA==headB:
+                return headA
+            headA=headA.next
+            headB=headB.next
+        return None        
+
+
+                
+                    
+
+
