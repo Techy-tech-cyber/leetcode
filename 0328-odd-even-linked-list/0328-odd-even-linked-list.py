@@ -8,24 +8,16 @@ class Solution(object):
         """
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
-        """
-        
-        if not head or not head.next:
+        """ 
+        if head == None or head.next==None :
             return head
-
-        odd = head
-        even = head.next
-        evenHead = even
-
-        while even and even.next:
-            odd.next = even.next
-            odd = odd.next
-
-            even.next = odd.next
-            even = even.next
-
-        odd.next = evenHead
-
-        return head
-
-        
+        even=head.next
+        evenhead=even
+        odd=head
+        while even is not None and even.next is not None:
+            odd.next=odd.next.next
+            odd=odd.next    
+            even.next=even.next.next
+            even=even.next
+        odd.next=evenhead
+        return head    
