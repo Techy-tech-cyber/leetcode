@@ -58,6 +58,7 @@ codes
 | [0412-fizz-buzz](https://github.com/Techy-tech-cyber/leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Techy-tech-cyber/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Techy-tech-cyber/leetcode/tree/master/0692-top-k-frequent-words) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -171,9 +172,14 @@ codes
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Techy-tech-cyber/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Techy-tech-cyber/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Techy-tech-cyber/leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
