@@ -58,6 +58,7 @@ codes
 | [0412-fizz-buzz](https://github.com/Techy-tech-cyber/leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Techy-tech-cyber/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Techy-tech-cyber/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0796-rotate-string](https://github.com/Techy-tech-cyber/leetcode/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
@@ -182,4 +183,8 @@ codes
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Techy-tech-cyber/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
