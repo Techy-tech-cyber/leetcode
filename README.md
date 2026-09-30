@@ -125,6 +125,7 @@ codes
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Techy-tech-cyber/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Techy-tech-cyber/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Techy-tech-cyber/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Techy-tech-cyber/leetcode/tree/master/0509-fibonacci-number) |
@@ -138,6 +139,7 @@ codes
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Techy-tech-cyber/leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Techy-tech-cyber/leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Techy-tech-cyber/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Techy-tech-cyber/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Techy-tech-cyber/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -179,6 +181,7 @@ codes
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Techy-tech-cyber/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Techy-tech-cyber/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Techy-tech-cyber/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Bracket Sequences
