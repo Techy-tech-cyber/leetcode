@@ -5,8 +5,15 @@ class Solution(object):
         :type goal: str
         :rtype: bool
         """
-       
-        if len(s) != len(goal):
+        n=len(s)
+        if n!=len(goal):
             return False
+        for i in range(0,n):
+            if goal == s:
+                return True
+            s=s[-1]+s[:-1]
+        return False        
 
-        return goal in s + s
+
+                
+       
