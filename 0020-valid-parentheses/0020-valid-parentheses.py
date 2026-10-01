@@ -6,18 +6,23 @@ class Solution(object):
         """
         
         stack = []
-        match = {
-            ')': '(',
-            ']': '[',
-            '}': '{'
-        }
-
-        for ch in s:
-            if ch in match:
-                if not stack or stack.pop() != match[ch]:
-                    return False
+        for i in s:
+            if i=="(" or i=="{" or i=="[":
+                stack.append(i)
             else:
-                stack.append(ch)
+                if len(stack)==0:
+                    return False
+                ch = stack.pop()    
+                if((i==")" and ch=="(" )
+                    or (i=="}" and ch=="{")
+                    or(i=="]" and ch=="[")
+                        ):
+                        continue
+                else:
+                    return False
+        return len(stack)==0     
+                        
+        
 
-        return not stack
+        
        
