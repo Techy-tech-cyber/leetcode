@@ -54,6 +54,7 @@ codes
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Techy-tech-cyber/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Techy-tech-cyber/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Techy-tech-cyber/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Techy-tech-cyber/leetcode/tree/master/0242-valid-anagram) |
@@ -126,6 +127,7 @@ codes
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Techy-tech-cyber/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Techy-tech-cyber/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Techy-tech-cyber/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -190,9 +192,14 @@ codes
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Techy-tech-cyber/leetcode/tree/master/0796-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
