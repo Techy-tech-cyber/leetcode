@@ -43,6 +43,7 @@ codes
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Techy-tech-cyber/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Techy-tech-cyber/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Techy-tech-cyber/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Techy-tech-cyber/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Techy-tech-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
@@ -145,6 +146,7 @@ codes
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Techy-tech-cyber/leetcode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Techy-tech-cyber/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Techy-tech-cyber/leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Techy-tech-cyber/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Techy-tech-cyber/leetcode/tree/master/0509-fibonacci-number) |
@@ -205,4 +207,8 @@ codes
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/0022-generate-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Techy-tech-cyber/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
