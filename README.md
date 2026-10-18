@@ -59,6 +59,7 @@ codes
 | [0020-valid-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Techy-tech-cyber/leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Techy-tech-cyber/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Techy-tech-cyber/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Techy-tech-cyber/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Techy-tech-cyber/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -146,6 +147,7 @@ codes
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Techy-tech-cyber/leetcode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Techy-tech-cyber/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Techy-tech-cyber/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Techy-tech-cyber/leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Techy-tech-cyber/leetcode/tree/master/0412-fizz-buzz) |
@@ -154,6 +156,7 @@ codes
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Techy-tech-cyber/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Techy-tech-cyber/leetcode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Techy-tech-cyber/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Linked List
@@ -211,4 +214,8 @@ codes
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Techy-tech-cyber/leetcode/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Techy-tech-cyber/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
