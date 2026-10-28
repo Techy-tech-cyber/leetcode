@@ -10,6 +10,7 @@ codes
 | [0004-median-of-two-sorted-arrays](https://github.com/Techy-tech-cyber/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Techy-tech-cyber/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Techy-tech-cyber/leetcode/tree/master/0049-group-anagrams) |
+| [0118-pascals-triangle](https://github.com/Techy-tech-cyber/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Techy-tech-cyber/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Techy-tech-cyber/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Techy-tech-cyber/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -134,6 +135,7 @@ codes
 | ------- |
 | [0022-generate-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Techy-tech-cyber/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Techy-tech-cyber/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Techy-tech-cyber/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Techy-tech-cyber/leetcode/tree/master/0152-maximum-product-subarray) |
