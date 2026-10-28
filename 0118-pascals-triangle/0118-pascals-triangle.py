@@ -5,11 +5,17 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         res=[[1]]
-        for i in range(numRows - 1):
-            temp = [0]+res[-1]+[0]
+        for i in range (numRows -1 ):
+            p=res[-1]
+            temp= [0]+ p + [0]
             curr=[]
-            for j in range (len(res[-1])+1):
+            for j in range (len(p) + 1):
                 curr.append(temp[j]+temp[j+1])
             res.append(curr)
-        return res        
-        
+        return res          
+
+
+
+
+
+               
