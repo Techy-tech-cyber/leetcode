@@ -5,9 +5,4 @@ class Solution(object):
         :type b: str
         :rtype: str
         """
-      
-        x = int(a, 2)
-        y = int(b, 2)
-
-        return bin(x + y)[2:]
-        
+        return bin(int(a, 2) + int(b, 2))[2:]
