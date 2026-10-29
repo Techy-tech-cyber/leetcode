@@ -13,6 +13,7 @@ codes
 | [0118-pascals-triangle](https://github.com/Techy-tech-cyber/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Techy-tech-cyber/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Techy-tech-cyber/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Techy-tech-cyber/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Techy-tech-cyber/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Techy-tech-cyber/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Techy-tech-cyber/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -139,6 +140,7 @@ codes
 | [0118-pascals-triangle](https://github.com/Techy-tech-cyber/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Techy-tech-cyber/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Techy-tech-cyber/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Techy-tech-cyber/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Techy-tech-cyber/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Techy-tech-cyber/leetcode/tree/master/0509-fibonacci-number) |
@@ -261,4 +263,8 @@ codes
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Techy-tech-cyber/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Techy-tech-cyber/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
