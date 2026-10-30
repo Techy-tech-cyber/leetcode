@@ -10,16 +10,23 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[int]
         """
-        res=[]
-        def tra(node):
-            if node == None:
-                return 0
-            res.append(node.val)
-            tra(node.left)
-            tra(node.right)
-        tra(root)
-        return res    
+        if not root:
+            return []
 
+        res = []
+        stack = [root]
+
+        while stack:
+            node = stack.pop()
+            res.append(node.val)
+
+            if node.right:
+                stack.append(node.right)
+
+            if node.left:
+                stack.append(node.left)
+
+        return res
 
 
         
