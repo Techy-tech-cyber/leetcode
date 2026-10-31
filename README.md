@@ -236,6 +236,7 @@ codes
 | [0100-same-tree](https://github.com/Techy-tech-cyber/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Techy-tech-cyber/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Techy-tech-cyber/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Techy-tech-cyber/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Techy-tech-cyber/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -246,6 +247,7 @@ codes
 | [0100-same-tree](https://github.com/Techy-tech-cyber/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Techy-tech-cyber/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Techy-tech-cyber/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Techy-tech-cyber/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Techy-tech-cyber/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -256,6 +258,7 @@ codes
 | [0100-same-tree](https://github.com/Techy-tech-cyber/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Techy-tech-cyber/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Techy-tech-cyber/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Techy-tech-cyber/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Techy-tech-cyber/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -264,6 +267,7 @@ codes
 | ------- |
 | [0100-same-tree](https://github.com/Techy-tech-cyber/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Techy-tech-cyber/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/0112-path-sum) |
 ## DP on Trees
 |  |
 | ------- |
