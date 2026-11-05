@@ -282,4 +282,8 @@ codes
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Techy-tech-cyber/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Techy-tech-cyber/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
