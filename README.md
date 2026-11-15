@@ -25,6 +25,7 @@ codes
 | [0349-intersection-of-two-arrays](https://github.com/Techy-tech-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0692-top-k-frequent-words](https://github.com/Techy-tech-cyber/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Techy-tech-cyber/leetcode/tree/master/0724-find-pivot-index) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1920-build-array-from-permutation](https://github.com/Techy-tech-cyber/leetcode/tree/master/1920-build-array-from-permutation) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
@@ -136,6 +137,7 @@ codes
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Techy-tech-cyber/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Techy-tech-cyber/leetcode/tree/master/0724-find-pivot-index) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,6 +153,7 @@ codes
 | [0198-house-robber](https://github.com/Techy-tech-cyber/leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Techy-tech-cyber/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Techy-tech-cyber/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,6 +172,7 @@ codes
 | [0412-fizz-buzz](https://github.com/Techy-tech-cyber/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Techy-tech-cyber/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Techy-tech-cyber/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Simulation
 |  |
 | ------- |
