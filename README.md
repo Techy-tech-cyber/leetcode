@@ -76,6 +76,7 @@ codes
 | [0692-top-k-frequent-words](https://github.com/Techy-tech-cyber/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Techy-tech-cyber/leetcode/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Techy-tech-cyber/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -179,6 +180,7 @@ codes
 | [0067-add-binary](https://github.com/Techy-tech-cyber/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Techy-tech-cyber/leetcode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Techy-tech-cyber/leetcode/tree/master/1920-build-array-from-permutation) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Techy-tech-cyber/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Linked List
 |  |
 | ------- |
