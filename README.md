@@ -77,6 +77,7 @@ codes
 | [0796-rotate-string](https://github.com/Techy-tech-cyber/leetcode/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Techy-tech-cyber/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Techy-tech-cyber/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@ codes
 | [0234-palindrome-linked-list](https://github.com/Techy-tech-cyber/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Techy-tech-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Techy-tech-cyber/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Techy-tech-cyber/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Queue
 |  |
 | ------- |
@@ -155,6 +157,7 @@ codes
 | [0509-fibonacci-number](https://github.com/Techy-tech-cyber/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Techy-tech-cyber/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Techy-tech-cyber/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Techy-tech-cyber/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sliding Window
 |  |
 | ------- |
