@@ -168,6 +168,7 @@ codes
 | ------- |
 | [0002-add-two-numbers](https://github.com/Techy-tech-cyber/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Techy-tech-cyber/leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Techy-tech-cyber/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Techy-tech-cyber/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Techy-tech-cyber/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Techy-tech-cyber/leetcode/tree/master/0070-climbing-stairs) |
@@ -245,6 +246,7 @@ codes
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Techy-tech-cyber/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Techy-tech-cyber/leetcode/tree/master/0067-add-binary) |
 ## Tree
 |  |
