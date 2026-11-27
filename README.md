@@ -62,6 +62,7 @@ codes
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Techy-tech-cyber/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Techy-tech-cyber/leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Techy-tech-cyber/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Techy-tech-cyber/leetcode/tree/master/0049-group-anagrams) |
