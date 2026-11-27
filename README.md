@@ -10,6 +10,7 @@ codes
 | [0004-median-of-two-sorted-arrays](https://github.com/Techy-tech-cyber/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Techy-tech-cyber/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Techy-tech-cyber/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Techy-tech-cyber/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Techy-tech-cyber/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Techy-tech-cyber/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Techy-tech-cyber/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -83,6 +84,7 @@ codes
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Techy-tech-cyber/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Techy-tech-cyber/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Techy-tech-cyber/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Techy-tech-cyber/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Techy-tech-cyber/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -95,6 +97,7 @@ codes
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Techy-tech-cyber/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Techy-tech-cyber/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Techy-tech-cyber/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Techy-tech-cyber/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Techy-tech-cyber/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Techy-tech-cyber/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -309,4 +312,12 @@ codes
 | ------- |
 | [0175-combine-two-tables](https://github.com/Techy-tech-cyber/leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Techy-tech-cyber/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Techy-tech-cyber/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Techy-tech-cyber/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
